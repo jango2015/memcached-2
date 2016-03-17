@@ -1,0 +1,6 @@
+F:\MemcachedLib\com.Steelv.Lib.CacheService\com.Steelv.Lib.CacheService\bin\Release\com.Steelv.Lib.CacheService.dll
+F:\MemcachedLib\com.Steelv.Lib.CacheService\com.Steelv.Lib.CacheService\bin\Release\com.Steelv.Lib.CacheService.pdb
+F:\MemcachedLib\com.Steelv.Lib.CacheService\com.Steelv.Lib.CacheService\bin\Release\BeIT.MemCached.dll
+F:\MemcachedLib\com.Steelv.Lib.CacheService\com.Steelv.Lib.CacheService\bin\Release\BeIT.MemCached.pdb
+F:\MemcachedLib\com.Steelv.Lib.CacheService\com.Steelv.Lib.CacheService\obj\Release\com.Steelv.Lib.CacheService.dll
+F:\MemcachedLib\com.Steelv.Lib.CacheService\com.Steelv.Lib.CacheService\obj\Release\com.Steelv.Lib.CacheService.pdb
