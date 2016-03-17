@@ -1,7 +1,0 @@
-F:\MemcachedLib\com.Steelv.Lib.CacheService\com.Steelv.Lib.CacheService\bin\Debug\com.Steelv.Lib.CacheService.dll
-F:\MemcachedLib\com.Steelv.Lib.CacheService\com.Steelv.Lib.CacheService\bin\Debug\com.Steelv.Lib.CacheService.pdb
-F:\MemcachedLib\com.Steelv.Lib.CacheService\com.Steelv.Lib.CacheService\obj\Debug\com.Steelv.Lib.CacheService.dll
-F:\MemcachedLib\com.Steelv.Lib.CacheService\com.Steelv.Lib.CacheService\obj\Debug\com.Steelv.Lib.CacheService.pdb
-F:\MemcachedLib\com.Steelv.Lib.CacheService\com.Steelv.Lib.CacheService\obj\Debug\com.Steelv.Lib.CacheService.csprojResolveAssemblyReference.cache
-F:\MemcachedLib\com.Steelv.Lib.CacheService\com.Steelv.Lib.CacheService\bin\Debug\BeIT.MemCached.dll
-F:\MemcachedLib\com.Steelv.Lib.CacheService\com.Steelv.Lib.CacheService\bin\Debug\BeIT.MemCached.pdb
